@@ -5,3 +5,10 @@
 First copy the main to your android projects (I did not use version control system, so yeah...) and build it.
 
 Then spin up php server and go to `/2fysh/index.php`
+
+
+# Paper
+In progress, will update when it is published.
+
+# Contributing
+Contact me at sunderi.pranata@gmail.com
